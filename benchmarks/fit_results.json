@@ -1,0 +1,13 @@
+{
+  "alpha_observed": 0.8874475943658632,
+  "alpha_stderr": 0.013536015489207562,
+  "r_squared": -0.24297590254878565,
+  "T1_mean_s": 0.5596248,
+  "diagnostic_slope_b": 0.05897509023967637,
+  "diagnostic_intercept_a": 1.3793847629877274,
+  "implied_alpha_from_slope": 0.9410249097603236,
+  "n_points": 25,
+  "injected_serial_fraction": [
+    0.0
+  ]
+}
